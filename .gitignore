@@ -1,0 +1,17 @@
+dist/
+venv/
+__pycache__/
+*.pyc
+.csv
+serviceAccount.json
+# dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# environment variables
+.env
+.env.local
